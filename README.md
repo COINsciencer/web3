@@ -14,9 +14,7 @@ twitter  https://twitter.com/howbuybtc
 
 无需再重复造轮子了。
 
-## What is new?
-
-全自动支持路径
+## 全自动支持路径
 
 okx -> ethereum/zksync/linea/base/arbitrum/optimism ->
 
@@ -27,9 +25,9 @@ https://www.youtube.com/@chainsci/videos
 
 ## 安装教程
 
-Install python3.9 or higher
+ python3.9 
 
-In project directory run:
+
 ```
 pip install -r requirements.txt
 ```
