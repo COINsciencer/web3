@@ -1,0 +1,58 @@
+{
+  "ethereum": {
+    "rpc": [
+      "https://rpc.ankr.com/eth"
+    ],
+    "explorer": "https://etherscan.io/tx/",
+    "token": "ETH",
+    "okx_network_name": "ERC20"
+  },
+  "arbitrum": {
+    "rpc": [
+      "https://rpc.ankr.com/arbitrum"
+    ],
+    "explorer": "https://arbiscan.io/tx/",
+    "token": "ETH",
+    "okx_network_name": "Arbitrum One"
+  },
+  "optimism": {
+    "rpc": [
+      "https://rpc.ankr.com/optimism"
+    ],
+    "explorer": "https://optimistic.etherscan.io/tx/",
+    "token": "ETH",
+    "okx_network_name": "Optimism"
+  },
+  "zksync": {
+    "rpc": [
+      "https://rpc.ankr.com/zksync_era"
+    ],
+    "explorer": "https://explorer.zksync.io/tx/",
+    "token": "ETH",
+    "okx_network_name": "zkSync Era"
+  },
+  "base": {
+    "rpc": [
+      "https://rpc.ankr.com/base"
+    ],
+    "explorer": "https://basescan.org/tx/",
+    "token": "ETH",
+    "okx_network_name": "Base"
+  },
+  "scroll": {
+    "rpc": [
+      "https://rpc.scroll.io"
+    ],
+    "explorer": "https://scrollscan.com/tx/",
+    "token": "ETH",
+    "okx_network_name": null
+  },
+  "linea": {
+    "rpc": [
+      "https://linea.decubate.com"
+    ],
+    "explorer": "https://lineascan.build/tx/",
+    "token": "ETH",
+    "okx_network_name": "Linea"
+  }
+}
