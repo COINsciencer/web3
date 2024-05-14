@@ -81,4 +81,6 @@ pip install -r requirements.txt
 
 4. Modules配置modules_settings.py
 
-![]([https://img-home.csdnimg.cn/images/20220524100510.png](https://raw.githubusercontent.com/COINsciencer/web3/main/photo_2024-03-24_22-37-52.jpg))
+
+   ![1](https://raw.githubusercontent.com/COINsciencer/web3/main/photo_2024-03-24_22-37-52.jpg)
+ 
