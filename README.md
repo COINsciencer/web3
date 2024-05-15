@@ -1,4 +1,11 @@
 <h1 align="center">通用web3科学家脚本组件库</h1>
+
+<div align=center><img src="https://raw.githubusercontent.com/COINsciencer/web3/main/logowz.png" width="200"></div>
+ <h3 align="center">币圈科学家旺仔</h3>
+<h1 align="center">[TG频道](https://t.me/coinSciener)</h1>
+
+
+ 
 通用web3组件库，基于网络开源代码以及自己日常使用所修改完善。
 
 后面我把我这一些可以开源的项目脚本陆陆续续也加进去
